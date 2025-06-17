@@ -1,4 +1,3 @@
-# Mini-Projects
 # 🚀 Mini Projects in Java
 
 Welcome to my mini-projects repo where I build small Java-based applications to sharpen my programming and Object-Oriented Programming (OOP) skills. I'm on a journey to become a Software Engineer — and these projects are my stepping stones!
