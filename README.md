@@ -8,6 +8,7 @@ Welcome to my mini-projects repo where I build small Java-based applications to 
 |-----------------------|----------------------------------------|------------------------------|
 | Rock Paper Scissors   | Classic CLI game using Java and OOP    | [View Project](./RockPaperScissorsGame) |
 | Guess The Number      | A guessing game to strengthen logic    | [View Project](./GuessTheNumber) |
+| Percentage Calculator | Calculator for percentage              | [View Project](https://github.com/Namit-07/Mini-Projects/blob/main/src/Class_XII_percentage_calculator.java) |
 
 ## 📌 Tools & Technologies
 - Java (OOP, Exception Handling, Constructors)
