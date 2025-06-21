@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class fibonacci_series {
     static int fibonacci(int n){
         if(n==0) {
@@ -11,8 +13,10 @@ public class fibonacci_series {
         }
     }
     public static void main(String[] args) {
-        int a = 5;
-        System.out.println(fibonacci(a));
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the term in Fibonacci Series");
+        int a = sc.nextInt();
+        System.out.println("The " +fibonacci(a)+ " is the " +a+ " term in fibonacci Series");
 
     }
 }
