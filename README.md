@@ -10,7 +10,8 @@ Welcome to my mini-projects repo where I build small Java-based applications to 
 | Guess The Number      | A guessing game to strengthen logic    | [View Project](https://github.com/Namit-07/Mini-Projects/blob/main/src/Guesstheno_Ex3.java) |
 | Percentage Calculator | For your school and college            | [View Project](https://github.com/Namit-07/Mini-Projects/blob/main/src/Class_XII_percentage_calculator.java) |
 | Fibonacci Series      | Maths most beautiful complex           | [View Project](https://github.com/Namit-07/Mini-Projects/blob/main/src/fibonacci_series.java) |
-| Online Library        | Add, available books, issue, return books functions    | [View Project]( https://github.com/Namit-07/Mini-Projects/blob/main/src/Online_Library.java) |                    
+| Online Library        | Add, available books, issue, return books functions    | [View Project]( https://github.com/Namit-07/Mini-Projects/blob/main/src/Online_Library.java) |  
+| Calculator            | User input handling, control flow, exception handling, custom exception, finally block  | [View Project](https://github.com/Namit-07/Mini-Projects/blob/main/src/Custom_Calculator.java) |
 
 ## 📌 Tools & Technologies
 - Java (OOP, Exception Handling, Constructors)
