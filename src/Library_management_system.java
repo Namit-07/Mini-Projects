@@ -67,7 +67,6 @@ public class Library_management_system {
             }
         } while (choice != 5);
     }
-
     static void addBook() {
         System.out.print("Enter book name: ");
         String name = sc.nextLine();
@@ -97,7 +96,6 @@ public class Library_management_system {
         }
         System.out.println("Book not found!");
     }
-
     static void returnBook() {
         System.out.print("Enter book name to return: ");
         String name = sc.nextLine();
@@ -115,7 +113,6 @@ public class Library_management_system {
         }
         System.out.println("Book not found!");
     }
-
     static void viewBooks() {
         if (books.isEmpty()) {
             System.out.println("No books in the library.");
